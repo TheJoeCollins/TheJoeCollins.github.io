@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://thejoecollins.github.io/fr/categories/</loc>
+    <loc>thejoecollins.github.io/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thejoecollins.github.io/categories/"
+                href="thejoecollins.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://thejoecollins.github.io/fr/categories/"
+                href="thejoecollins.github.io/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://thejoecollins.github.io/fr/series/</loc>
+    <loc>thejoecollins.github.io/fr/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thejoecollins.github.io/series/"
+                href="thejoecollins.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://thejoecollins.github.io/fr/series/"
+                href="thejoecollins.github.io/fr/series/"
                 />
   </url>
   
   <url>
-    <loc>https://thejoecollins.github.io/fr/tags/</loc>
+    <loc>thejoecollins.github.io/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thejoecollins.github.io/tags/"
+                href="thejoecollins.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://thejoecollins.github.io/fr/tags/"
+                href="thejoecollins.github.io/fr/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://thejoecollins.github.io/fr/</loc>
+    <loc>thejoecollins.github.io/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thejoecollins.github.io/"
+                href="thejoecollins.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://thejoecollins.github.io/fr/"
+                href="thejoecollins.github.io/fr/"
                 />
   </url>
   
