@@ -1,0 +1,3 @@
+.container>.timeline-item .timeline-content{border:1px solid black;padding-top:15px}.container>.timeline-item .date{background-color:#FF4081;font-size:18px;font-weight:bold}.container>.timeline-item:nth-child(odd)>.timeline-content .date{border-top-right-radius:4px}.container>.timeline-item:nth-child(odd)>.timeline-content::after{border-left-color:black}.container>.timeline-item:nth-child(even)>.timeline-content .date{border-top-left-radius:4px}.container>.timeline-item:nth-child(even)>.timeline-content::after{border-right-color:black}section.timeline div.timeline-img{background:#188677}section.timeline::before{background:#2a2b31;border-radius:2px}
+
+/*# sourceMappingURL=main.css.map */

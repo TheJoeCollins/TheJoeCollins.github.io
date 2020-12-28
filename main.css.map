@@ -1,0 +1,13 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sourceRoot": "/Users/jcollins/go/src/github.com/TheJoeCollins/hugo.thejoecollins.github.io",
+	"sources": [
+		"stdin"
+	],
+	"sourcesContent": [
+		"\n.container > .timeline-item {\n\n    & .timeline-content {\n        border: 1px solid black;\n        padding-top: 15px;\n    }\n\n    & .date {\n        background-color: #FF4081;\n        font-size: 18px;\n        font-weight: bold;\n    }\n\n    &:nth-child(odd) > .timeline-content  {\n        .date {\n            border-top-right-radius: 4px;\n        }\n        &::after {\n            border-left-color: black;\n        }\n    }\n\n    &:nth-child(even) > .timeline-content  {\n        .date {\n            border-top-left-radius: 4px;\n        }\n        &::after {\n            border-right-color: black;\n        }\n    }\n}\n\n\nsection.timeline {\n\n    div.timeline-img {\n        background: #188677;\n    }\n\n    &::before {\n        background: #2a2b31;\n        border-radius: 2px;\n    }\n\n}"
+	],
+	"names": [],
+	"mappings": "AACA,AAEI,UAFM,CAAG,cAAc,CAErB,iBAAiB,AAAC,CAChB,MAAM,CAAE,eAAe,CACvB,WAAW,CAAE,IAAI,CACpB,AALL,AAOI,UAPM,CAAG,cAAc,CAOrB,KAAK,AAAC,CACJ,gBAAgB,CAAE,OAAO,CACzB,SAAS,CAAE,IAAI,CACf,WAAW,CAAE,IAAI,CACpB,AAXL,AAcQ,UAdE,CAAG,cAAc,CAarB,SAAU,CAAA,GAAG,EAAI,iBAAiB,CAChC,KAAK,AAAC,CACF,uBAAuB,CAAE,GAAG,CAC/B,AAhBT,AAiBQ,UAjBE,CAAG,cAAc,CAarB,SAAU,CAAA,GAAG,EAAI,iBAAiB,EAI7B,KAAK,AAAC,CACL,iBAAiB,CAAE,KAAK,CAC3B,AAnBT,AAuBQ,UAvBE,CAAG,cAAc,CAsBrB,SAAU,CAAA,IAAI,EAAI,iBAAiB,CACjC,KAAK,AAAC,CACF,sBAAsB,CAAE,GAAG,CAC9B,AAzBT,AA0BQ,UA1BE,CAAG,cAAc,CAsBrB,SAAU,CAAA,IAAI,EAAI,iBAAiB,EAI9B,KAAK,AAAC,CACL,kBAAkB,CAAE,KAAK,CAC5B,AAKT,AAEI,OAFG,AAAA,SAAS,CAEZ,GAAG,AAAA,aAAa,AAAC,CACb,UAAU,CAAE,OAAO,CACtB,AAJL,AAMI,OANG,AAAA,SAAS,EAMT,MAAM,AAAC,CACN,UAAU,CAAE,OAAO,CACnB,aAAa,CAAE,GAAG,CACrB"
+}
